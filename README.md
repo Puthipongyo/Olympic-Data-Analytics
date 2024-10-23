@@ -4,7 +4,7 @@
 The **Olympic-Data-Analytics** project is an Azure End-To-End Data Engineering Project that focuses on building a comprehensive data pipeline to analyze Olympic data.
 
 ## Project Workflow
-1. **Extract Data**: Use Azure Data Factory to extract data from the specified API and load it into Azure Data Lake Gen 2.
+1. **Extract Data**: Use Azure Data Factory to extract data from the specified API and load it into Azure Data Lake Gen 
    ![image](https://github.com/user-attachments/assets/7633d0bb-c7de-4045-96d3-6754b7477278)
    ![image](https://github.com/user-attachments/assets/19f17ce4-e3cb-4b41-b03a-b05787d9172a)
    ![image](https://github.com/user-attachments/assets/54d94519-f8a0-42cd-bc32-4d3106b9d79e)
