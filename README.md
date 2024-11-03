@@ -15,7 +15,8 @@ The **Olympic-Data-Analytics** project is an Azure End-To-End Data Engineering P
    ![image](https://github.com/user-attachments/assets/dde3be66-d262-494b-b985-afbcbabbde19)
 
 3. **Query Data**: Use Azure Synapse Analytics to query the transformed data using SQL, enabling insights and analytics.
-   ![image](https://github.com/user-attachments/assets/66a0887a-cebc-4b80-9334-17536f8af40c)
+
+    ![image](https://github.com/user-attachments/assets/66a0887a-cebc-4b80-9334-17536f8af40c)
    ![image](https://github.com/user-attachments/assets/85a6d239-a136-4975-8dc3-040897ff1495)
    ![image](https://github.com/user-attachments/assets/e82e9cd7-69dc-4406-8993-391f238c954a)
    ![image](https://github.com/user-attachments/assets/069c63b6-4faa-486e-a7b3-b02f0c36443f)
